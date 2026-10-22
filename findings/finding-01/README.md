@@ -2,7 +2,7 @@
 
 **Platform:** Cantina  
 **Finding ID:** #919  
-**Contest:** [Insert contest name]  
+**Contest:** Revert Finance   
 **Severity:** Low  
 **Status:** Duplicate of finding #14  
 **Category:** State management / loan lifecycle cleanup
