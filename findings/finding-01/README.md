@@ -55,5 +55,5 @@ This report was marked as a duplicate of finding #14. A request to reconsider th
 
 ## References
 
-- Cantina finding: [Insert the public finding URL]
-- Related finding #14: [Insert the public URL if available]
+- Cantina finding:
+- Related finding #14
